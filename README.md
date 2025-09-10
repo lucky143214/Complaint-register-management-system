@@ -1,7 +1,7 @@
 # Online Complaint Registration and Management System
 
 ## Overview
-This project is an **Online Complaint Registration and Management System** developed using the **MERN** stack (MongoDB, Express.js, React.js, Node.js) for the **Naan Mudhalvan** initiative. The system allows users to register complaints, track their status, and manage them efficiently. It also incorporates role-based access control to ensure different user roles (like Admin, User, and agent) have appropriate permissions and functionalities.
+This project is an **Online Complaint Registration and Management System** developed using the **MERN** stack (MongoDB, Express.js, React.js, Node.js) for the **Tangila Durga Rao** initiative. The system allows users to register complaints, track their status, and manage them efficiently. It also incorporates role-based access control to ensure different user roles (like Admin, User, and agent) have appropriate permissions and functionalities.
 
 ## Features
 - **Role-Based Access Control**: Different user roles, such as Admin, User, and Agent, with specific permissions.
