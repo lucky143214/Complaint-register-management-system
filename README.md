@@ -28,8 +28,8 @@ Demo Video - https://drive.google.com/file/d/1yjLPJ7dclGxi5k7LH3hGEnuys5-U2Kwv/v
 
 ### Clone the repository
 ```bash
-git clone https://github.com/balaganesh102004/naan-mudhalvan-project.git
-cd naan-mudhalvan-project
+https://github.com/lucky143214/Complaint-register-management-system.git
+cd complaint-register-management-system
 ```
 
 ## Backend Setup
