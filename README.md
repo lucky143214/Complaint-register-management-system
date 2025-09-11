@@ -1,3 +1,4 @@
+ResolveNow: Your Platform for Online Complaints
 # Online Complaint Registration and Management System
 
 ## Overview
