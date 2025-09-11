@@ -67,7 +67,7 @@ Once both the frontend and backend are running, the application will be availabl
 ## File Structure
 
 ```bash
-/NAAN-MUDHALVAN-PROJECT-MAIN
+complaint-register-management-system
 │
 ├── backend/
 │   ├── node_modules/
